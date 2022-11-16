@@ -1,0 +1,28 @@
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+table {
+  width: 75%;
+}
+
+ul {
+  display: inline;
+}
+
+.about {
+  margin: 0;
+  height: 500px;
+  padding: 3%;
+}
+
+.about-table {
+  margin: auto;
+}
+
+.topnav {
+  text-align: center;
+  height: 75px;
+
+}
