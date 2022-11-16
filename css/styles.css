@@ -46,6 +46,7 @@ p{
 .topnav a{
   padding: 15px;
   color: black;
+  font-size: 120%;
 }
 .topnav a:hover {
   background-color: #040303;
