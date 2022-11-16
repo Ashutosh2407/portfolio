@@ -2,9 +2,7 @@ body {
   background-color: #F9F9F9;
   margin-right: 10px;
   margin-left: 10px;
-
 }
-
 table {
   width: 75%;
 }
@@ -14,6 +12,9 @@ td{
 ul {
   display: inline;
   list-style: none;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
 }
 h2{
   font-family: 'Roboto', sans-serif;
@@ -36,9 +37,18 @@ p{
   color: black;
   margin-top: 5px;
   color: #562B08;
+  font-size: 120%;
 }
-a{
-  margin: 2px;
+/* a{
+  margin: 5px;
+
+} */
+.topnav a{
+  padding: 15px;
+}
+.topnav a:hover {
+  background-color: #040303;
+  color: white;
 }
 .about {
 
@@ -52,7 +62,6 @@ a{
 }
 
 .experience{
-
   padding-top: 2%;
   padding-bottom: 2%;
   padding-left:15%;
@@ -65,9 +74,9 @@ a{
   padding-right: 10%;
 }
 
-.topnav {
+.topnav{
   text-align: center;
   height: 35px;
   padding-top: 14px;
-
+  font-family:'Lato', sans-serif;
 }
